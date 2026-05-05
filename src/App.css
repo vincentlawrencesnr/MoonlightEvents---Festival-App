@@ -1,0 +1,50 @@
+
+
+
+/* Dropdown background */
+.navbar .dropdown-menu {
+  background-color: #0B0F1A;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+/* Dropdown text */
+.navbar .dropdown-item {
+  color: #fff;
+}
+
+/* Remove blue hover */
+.navbar .dropdown-item:hover {
+  background-color: #1a2238; 
+  color: #fff !important;
+}
+
+/* Active link style */
+.navbar .active-link {
+  color: #ff4d4d; 
+  font-weight: 600;
+}
+
+.accordion-button:hover {
+  background-color: #fafcf3 !important;
+  /* color: white !important; */
+  transition: 0.3s ease;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #2b323cff !important;
+  color: white !important;
+}
+
+/* the above is for when the accordion is open 
+
+collapsed (closed) - you only see the heading or title. The answer or detailed content is hidden.
+expanded (open) - you click the heading, and it opens to show the answer or detailed content.
+*/
+
+
+/* Use CSS Modules → for your custom components
+Use Global CSS → when overriding Bootstrap */
+
+/* Bootstrap classes = global
+So your override must also be global */

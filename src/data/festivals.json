@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "name": "Diwali",
+    "country": "India",
+    "religion": "Hindu",
+    "month": "November",
+    "description": "Festival of lights symbolizing the victory of light over darkness.",
+    "image": "https://unsplash.com/photos/3SmkRuIBYoA/download?force=true&w=1920"
+  },
+  {
+    "id": 2,
+    "name": "Christmas",
+    "country": "Global",
+    "religion": "Christian",
+    "month": "December",
+    "description": "Celebration of the birth of Jesus Christ.",
+    "image": "https://unsplash.com/photos/w2cPK0Qq1hY/download?force=true&w=1920"
+  },
+  {
+    "id": 3,
+    "name": "Eid al-Fitr",
+    "country": "Global",
+    "religion": "Islam",
+    "month": "Varies",
+    "description": "Marks the end of Ramadan fasting.",
+    "image": "https://unsplash.com/photos/CQrDFHm5zMY/download?force=true&w=1920"
+  },
+   {
+    "id": 4,
+    "name": "Hanukkah",
+    "country": "Global",
+    "religion": "Judaism",
+    "month": "December",
+    "description": "Festival of lights celebrating the rededication of the Second Temple.",
+    "image": "https://unsplash.com/photos/wDTVOCLH4Ak/download?force=true&w=1920"
+  },
+    {
+    "id": 5,
+    "name": "Chinese New Year",
+    "country": "China",
+    "religion": "Traditional",
+    "month": "January/February",
+    "description": "Celebrates the beginning of the lunar new year with family gatherings and traditions.",
+    "image": "https://unsplash.com/photos/o1edqQHnPJ8/download?force=true&w=1920"
+  },
+   {
+    "id": 6,
+    "name": "Oktoberfest",
+    "country": "Germany",
+    "religion": "None",
+    "month": "September",
+    "description": "World-famous beer festival celebrating Bavarian culture.",
+    "image": "https://unsplash.com/photos/fN6HB_vALOM/download?force=true&w=1920"
+  },
+   {
+    "id": 7,
+    "name": "Holi",
+    "country": "India",
+    "religion": "Hindu",
+    "month": "March",
+    "description": "Festival of colors celebrating the arrival of spring and the victory of good over evil.",
+    "image": "https://unsplash.com/photos/6Bhuuhhrb-4/download?force=true&w=1920"
+  },
+  {
+    "id": 8,
+    "name": "Eid al-Adha",
+    "country": "Global",
+    "religion": "Islam",
+    "month": "June",
+    "description": "Festival of sacrifice honoring the willingness of Ibrahim to sacrifice his son.",
+    "image": "https://unsplash.com/photos/MXupYeis0N0/download?force=true&w=1920"
+  },
+  {
+    "id": 9,
+    "name": "Thanksgiving",
+    "country": "USA",
+    "religion": "None",
+    "month": "November",
+    "description": "A day of giving thanks celebrated with family gatherings and meals.",
+    "image": "/assets/thanksgiving.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Durbar Festival",
+    "country": "Nigeria",
+    "religion": "Cultural",
+    "month": "July",
+    "description": "A colorful cultural festival featuring horse parades and traditional displays.",
+    "image": "https://unsplash.com/photos/AuA9shru3So/download?force=true&w=1920"
+  },
+  {
+    "id": 11,
+    "name": "Carnival in Rio",
+    "country": "Brazil",
+    "religion": "None",
+    "month": "February",
+    "description": "World-famous festival with parades, samba music, and vibrant costumes.",
+    "image": "https://unsplash.com/photos/YU140KIISaI/download?force=true&w=1920"
+  },
+  {
+    "id": 12,
+    "name": "Ramadan",
+    "country": "Global",
+    "religion": "Islam",
+    "month": "March",
+    "description": "A holy month of fasting, prayer, and reflection for Muslims worldwide.",
+    "image": "https://unsplash.com/photos/ZaDqIM8OuA0/download?force=true&w=1920"
+  },
+  {
+    "id": 13,
+    "name": "Easter",
+    "country": "Global",
+    "religion": "Christian",
+    "month": "April",
+    "description": "Celebrates the resurrection of Jesus Christ.",
+    "image": "https://unsplash.com/photos/EECQiKXQ464/download?force=true&w=1920"
+  },
+  {
+    "id": 14,
+    "name": "Loy Krathong",
+    "country": "Thailand",
+    "religion": "Buddhist",
+    "month": "November",
+    "description": "Festival of lights where people release floating lanterns on water.",
+    "image": "/assets/loythai.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Obon Festival",
+    "country": "Japan",
+    "religion": "Buddhist",
+    "month": "August",
+    "description": "A festival honoring the spirits of ancestors with dances and lanterns.",
+    "image": "https://unsplash.com/photos/LVSUagVDyvQ/download?force=true&w=1920"
+  },
+  {
+    "id": 16,
+    "name": "Songkran",
+    "country": "Thailand",
+    "religion": "Buddhist",
+    "month": "April",
+    "description": "Thai New Year festival famous for nationwide water fights.",
+    "image": "/assets/songkran.jpg"
+  },
+  {
+    "id": 17,
+    "name": "La Tomatina",
+    "country": "Spain",
+    "religion": "None",
+    "month": "August",
+    "description": "A fun festival where participants throw tomatoes at each other.",
+    "image": "https://www.reuters.com/resizer/v2/NX3NIJGLAJJ7XL3M7YMRUVW57I.jpg?auth=c7b42422bedc3002b6c240f5345693f81b0bc9ddcfd762e2a8265d995b81d42c&width=1920&quality=80"
+  },
+  {
+    "id": 18,
+    "name": "Day of the Dead",
+    "country": "Mexico",
+    "religion": "Cultural",
+    "month": "November",
+    "description": "A tradition honoring deceased loved ones with altars and celebrations.",
+    "image": "/assets/dayofdead.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Baisakhi",
+    "country": "India",
+    "religion": "Sikh",
+    "month": "April",
+    "description": "Harvest festival and celebration of the Sikh New Year.",
+    "image": "https://4.bp.blogspot.com/-36z13EXaXyg/UWmBQ-3JGOI/AAAAAAAAAOg/HCmN0cId6Ho/s1600/baisakhi-celebration-wallpaper.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Mardi Gras",
+    "country": "USA",
+    "religion": "Christian",
+    "month": "February",
+    "description": "A festive celebration with parades, music, and colorful costumes.",
+    "image": "https://s.abcnews.com/images/US/mardi-gras-new-orleans-epa-mz-01-230222_1677076039094_sl_8x5_1600.jpg"
+  },
+  {
+  "id": 21,
+  "name": "Timkat",
+  "country": "Ethiopia",
+  "religion": "Christian",
+  "month": "January",
+  "description": "An Ethiopian Orthodox celebration of Epiphany, featuring colorful processions, chanting, and the blessing of water.",
+  "image": "/assets/timkat.jpg"
+},
+{
+  "id": 22,
+  "name": "Fes Festival of World Sacred Music",
+  "country": "Morocco",
+  "religion": "Cultural",
+  "month": "June",
+  "description": "An international music festival held in Fes featuring sacred music and cultural performances from around the world.",
+  "image": "https://livingnomads.com/wp-content/uploads/2023/05/08/Fes-Festival-of-Sacred-Music-fez-fes.jpeg"
+},
+{
+  "id": 23,
+  "name": "Lake of Stars Festival",
+  "country": "Malawi",
+  "religion": "None",
+  "month": "September",
+  "description": "A vibrant music and arts festival held along Lake Malawi, showcasing African and international artists.",
+  "image": "/assets/lakestars.jpg"
+},
+{
+  "id": 24,
+  "name": "Osun-Osogbo Festival",
+  "country": "Nigeria",
+  "religion": "Traditional",
+  "month": "August",
+  "description": "A sacred Yoruba festival in Osogbo honoring the river goddess Osun with rituals, prayers, and cultural celebrations.",
+  "image": "/assets/osun.jpg"
+}
+]
+

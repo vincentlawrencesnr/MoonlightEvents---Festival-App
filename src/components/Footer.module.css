@@ -1,0 +1,120 @@
+.moonlight-footer {
+  /* margin-top: 2.5rem; */
+  background-color: #0B0F1A;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+/* Text */
+.tagline {
+  color: #faf3e0;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+/* Titles */
+.footerTitle {
+  color: #faf3e0;
+  font-size: 22px;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+/* Divider */
+.footerLine {
+  color: #faf3e0;
+  margin: 2rem 0;
+}
+
+/* Copyright */
+.copyright {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+  margin: 0;
+}
+
+/* Social icons */
+.social-icons i {
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: rgba(255, 153, 0, 0.08);
+  color: #cbc8c8ff;
+  transition: 0.3s ease;
+}
+
+.social-icons i:hover {
+  background-color: #c60707;
+  color: white;
+}
+
+/* Links */
+.support-links a {
+  color: #faf3e0;
+  font-size: 16px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.support-links a:hover {
+  color: #c60707;
+}
+
+
+/*
+
+Subtle point:
+even when you use Link or NavLink and you want to style it with custom css, to target it, you stil use the a tag.
+
+<h1 class="display-3">Hello</h1>
+
+font-size: large;
+font-weight: lighter;
+line-height: adjusted;
+
+display-1 → HUGE
+display-2
+display-3
+display-4
+display-5
+display-6 → smaller
+
+
+🧠 🔥 Goal of your Home page
+
+Your Home page should:
+
+1. Grab attention (Hero)
+2. Show what your site does
+3. Let users explore quickly
+4. Guide them to deeper pages (/festivals, /gallery, etc.)
+
+👉 Not everything belongs on Home
+
+
+0deg   → top (↑)
+90deg  → right (→)
+180deg → bottom (↓)
+270deg → left (←)
+
+🔥 So what is 135deg?
+135deg → diagonal: top-left → bottom-right
+
+👉 That means:
+
+gradient starts from top-left
+and flows towards bottom-right
+
+🧠 Visual idea
+(top-left)  color1
+     ↘
+        ↘
+           ↘
+              color2  (bottom-right)
+
+*/

@@ -36,6 +36,15 @@
   color: white !important;
 }
 
+/* .hero-title img {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+} */
+
 /* the above is for when the accordion is open 
 
 collapsed (closed) - you only see the heading or title. The answer or detailed content is hidden.

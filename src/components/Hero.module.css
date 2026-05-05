@@ -1,7 +1,7 @@
 .hero {
   height: 90vh;
   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url("https://unsplash.com/photos/AcmsXGJ7c8U/download?force=true&w=1920");
+    url("/src/assets/heroMoonlight.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -9,6 +9,11 @@
   text-align: center;
 }
 
+@media (max-width: 768px) {
+  .hero {
+    background-attachment: scroll;
+  }
+}
 
 
  /* https://images.unsplash.com/photo-1500530855697-b586d89ba3ee */

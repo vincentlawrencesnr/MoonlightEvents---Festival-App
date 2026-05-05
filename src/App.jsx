@@ -17,6 +17,7 @@ import Footer from './components/Footer';
 import HomeAbout from './components/HomeAbout';
 import CallToAction from './components/CallToAction';
 import HomeGallery from './components/HomeGallery';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -41,6 +42,7 @@ function App() {
       <Ticker /> */}
 
     <Router>
+      <ScrollToTop />
       <Navbar searchTerm={searchTerm} setSearchTerm={setSearchTerm} setSubmittedSearch={setSubmittedSearch} />
 
       <Routes>

@@ -1,6 +1,4 @@
 
-
-
 /* Dropdown background */
 .navbar .dropdown-menu {
   background-color: #0B0F1A;
@@ -13,10 +11,10 @@
   color: #fff;
 }
 
-/* Remove blue hover */
+/* Add blue hover */
 .navbar .dropdown-item:hover {
   background-color: #1a2238; 
-  color: #fff !important;
+  /* color: #fff; */
 }
 
 /* Active link style */

@@ -1,12 +1,20 @@
 .hero {
-  height: 90vh;
+  height: 100vh;
   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url("/src/assets/heroMoonlight.jpg");
+    url("https://media.magnific.com/magnific/landings/about-us/hero-about-us.webp?w=1080&h=605&fit=crop&auto=format");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   text-align: center;
+}
+
+.hero-title {
+  
+  font-family: "Habibi", serif !important;
+  font-weight: bolder;
+  color: #faf3e0;
+  z-index: 999;
 }
 
 @media (max-width: 768px) {
@@ -15,6 +23,10 @@
   }
 }
 
+
+
+
+/* /src/assets/herofade2.jpg */
 
  /* https://images.unsplash.com/photo-1500530855697-b586d89ba3ee */
 /* 

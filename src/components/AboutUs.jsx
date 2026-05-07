@@ -78,7 +78,7 @@ export default function AboutUs() {
       </div>
 
       {/* TIMELINE */}
-       <div className="mb-5">
+       <div className="mb-5 py-4">
          <h3 className="text-center mb-5" data-aos="fade-up" style={{color: '#2b323cff', fontWeight: '700', fontSize: '24px', marginTop: '50px'}}>Our Journey</h3>
 
          <div className="row text-center">
@@ -110,7 +110,7 @@ export default function AboutUs() {
            <div className="col-md-4 mb-4" data-aos="flip-left">
              <div className="p-3 shadow rounded">
                <img
-                src="https:randomuser.me/api/portraits/men/30.jpg"
+                src="https:randomuser.me/api/portraits/men/59.jpg"
                 className="rounded-circle mb-2"
                 width="100"
                 alt="team"

@@ -18,6 +18,7 @@ import HomeAbout from './components/HomeAbout';
 import CallToAction from './components/CallToAction';
 import HomeGallery from './components/HomeGallery';
 import ScrollToTop from './components/ScrollToTop';
+import HomeTalents from './components/HomeTalents';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -46,7 +47,7 @@ function App() {
       <Navbar searchTerm={searchTerm} setSearchTerm={setSearchTerm} setSubmittedSearch={setSubmittedSearch} />
 
       <Routes>
-        <Route path="/" element={<><Hero /><FestivalList submittedSearch={submittedSearch} /><HomeAbout /><HomeGallery /><CallToAction /><FAQ/></>} />
+        <Route path="/" element={<><Hero /><FestivalList submittedSearch={submittedSearch} /><HomeAbout /><HomeGallery /><HomeTalents /><CallToAction /><FAQ/></>} />
         <Route path="/festivals" element={<Festivals submittedSearch={submittedSearch} />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/about" element={<AboutUs />} />

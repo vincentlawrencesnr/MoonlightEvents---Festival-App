@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Amina Yusuf",
+    "country": "Nigeria",
+    "talent": "Cultural Dancer",
+    "description": "Preserving African traditions through expressive dance performances.",
+    "image": "https://unsplash.com/photos/bpLEZ7ljXQc/download?force=true&w=1920"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Mendes",
+    "country": "Brazil",
+    "talent": "Drummer",
+    "description": "Bringing energy to festivals through traditional samba rhythms.",
+    "image": "https://unsplash.com/photos/GTsxZJ9SYTc/download?force=true&w=1920"
+  },
+  {
+    "id": 3,
+    "name": "Linh Nguyen",
+    "country": "Vietnam",
+    "talent": "Visual Artist",
+    "description": "Creates festival-inspired art blending culture and modern design.",
+    "image": "https://unsplash.com/photos/GJnyw_HASdA/download?force=true&w=1920"
+  },
+   {
+    "id": 4,
+    "name": "Kwame Mensah",
+    "country": "Ghana",
+    "talent": "Talking Drummer",
+    "description": "Uses traditional drum language to communicate stories and celebrate African heritage.",
+    "image": "https://unsplash.com/photos/V5gxH-QzMdU/download?force=true&w=1920"
+  },
+  {
+    "id": 5,
+    "name": "Fatima Al-Sayed",
+    "country": "Morocco",
+    "talent": "Henna Artist",
+    "description": "Designs intricate henna patterns for weddings and cultural festivals.",
+    "image": "https://unsplash.com/photos/oEuPbRYmpU0/download?force=true&w=1920"
+  },
+  {
+    "id": 6,
+    "name": "Daniel Otieno",
+    "country": "Kenya",
+    "talent": "Storyteller",
+    "description": "Preserves African folklore through captivating oral storytelling at cultural events.",
+    "image": "https://unsplash.com/photos/g55171G03C4/download?force=true&w=1920"
+  }
+]

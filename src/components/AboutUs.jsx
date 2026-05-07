@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Moonlight from "../assets/MoonRed.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import portrait1 from "../assets/potrait1.jpg";
 
 export default function AboutUs() {
 
@@ -110,9 +111,10 @@ export default function AboutUs() {
            <div className="col-md-4 mb-4" data-aos="flip-left">
              <div className="p-3 shadow rounded">
                <img
-                src="https:randomuser.me/api/portraits/men/59.jpg"
+                src={portrait1}
                 className="rounded-circle mb-2"
                 width="100"
+                height="100"
                 alt="team"
               />
               <h6>Vincent</h6>
